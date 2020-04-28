@@ -2,7 +2,7 @@
 
 基于项目修改 https://github.com/TheKingOfDuck/FileMonitor
 
-Python库依赖：watchdog、time、sys
+Python库依赖：watchdog、time、sys，支持Python2、3
 
 修改代码实现:
 
