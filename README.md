@@ -12,3 +12,12 @@ Python库依赖：watchdog、time、sys
     3 优化代码结构
     4 修改信息输出为中文
     5 修复python2中文乱码问题
+
+
+为方便大家使用，已用pyinstaller打包生成了windows10免环境程序，访问
+
+https://github.com/moyuliu/FileMonitorPlus/releases/tag/1.0 
+
+点击链接下载
+
+fileMonitor.zip
