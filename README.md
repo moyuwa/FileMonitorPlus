@@ -1,6 +1,6 @@
 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 
-基于项目修改 https://github.com/TheKingOfDuck/FileMonitor
+基于项目修改 https://github.com/TheKingOfDuck/FileMonitor (20200628更新:相关问题原项目已修复，请移步原项目下载，当前项目仅作历史记录)
 
 Python库依赖：watchdog、time、sys，支持Python2、3
 
@@ -21,3 +21,5 @@ https://github.com/moyuliu/FileMonitorPlus/releases/tag/1.0
 点击链接下载
 
 fileMonitor.zip
+
+
